@@ -1,0 +1,56 @@
+#######################################
+# Syntax Coloring Map For M202SD01LA
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+M202SD01LA	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+clear	KEYWORD2
+reset	KEYWORD2
+setBrightness	KEYWORD2
+setCursorMode	KEYWORD2
+setCursor	KEYWORD2
+home	KEYWORD2
+write	KEYWORD2	# НОВЫЙ МЕТОД
+print	KEYWORD2
+printf	KEYWORD2
+backspace	KEYWORD2
+horizontalTab	KEYWORD2
+allDisplayOn	KEYWORD2
+defineCustomChar	KEYWORD2
+waitNotBusy	KEYWORD2
+isBusy	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+IF_PARALLEL	LITERAL1
+IF_SERIAL	LITERAL1
+CMD_DEF	LITERAL1
+CMD_DIM	LITERAL1
+CMD_BS	LITERAL1
+CMD_HT	LITERAL1
+CMD_CLR	LITERAL1
+CMD_ALD	LITERAL1
+CMD_DP	LITERAL1
+CMD_DC	LITERAL1
+CMD_RST	LITERAL1
+BRIGHT_100	LITERAL1
+BRIGHT_80	LITERAL1
+BRIGHT_60	LITERAL1
+BRIGHT_40	LITERAL1
+BRIGHT_20	LITERAL1
+BRIGHT_0	LITERAL1
+CURSOR_OFF	LITERAL1
+CURSOR_BLINK	LITERAL1
+CURSOR_ON	LITERAL1
+POS_ROW1_START	LITERAL1
+POS_ROW1_END	LITERAL1
+POS_ROW2_START	LITERAL1
+POS_ROW2_END	LITERAL1
